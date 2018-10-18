@@ -1,2 +1,2 @@
-this is new.
+create a new branch is quick & simple.
 iss2:changed this file
